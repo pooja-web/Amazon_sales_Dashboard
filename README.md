@@ -13,9 +13,8 @@ This Power BI dashboard analyzes Amazon Sales and Prime data to uncover insights
 Power BI | Excel | DAX | Power Query
 
 ### 📸 Dashboard Preview
-![Dashboard Screenshot](image-link.png)
-<img width="915" height="531" alt="image" src="https://github.com/user-attachments/assets/728d118d-f8c8-4a10-8015-2f8aabac9f0c" />
 <img width="900" height="509" alt="Amazon_Data" src="https://github.com/user-attachments/assets/6857ff0e-b2a5-4f48-8438-4fda42b09e18" />
+<img width="891" height="496" alt="Amazon_Prime_Data" src="https://github.com/user-attachments/assets/9a1afbe6-e29a-4936-a168-3d5899b7c8c6" />
 
 
 ### 🚀 Outcome
